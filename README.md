@@ -19,7 +19,7 @@ A documentação deve servir como uma descrição das entradas e saídas da sua 
 
 ### 📝 Clonagem e uso
 
-Para clonar o repositório rode `https://github.com/JackssonAndrey/ignite-desafio-04.git` no seu terminal.
+Para clonar o repositório rode `https://github.com/JackssonAndrey/ignite-desafio-05.git` no seu terminal.
 Entre na pasta do projeto e rode `yarn` no seu terminal para instalar as dependências.
 
 ##### Uso
